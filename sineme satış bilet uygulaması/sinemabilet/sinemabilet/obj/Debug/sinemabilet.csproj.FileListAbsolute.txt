@@ -1,0 +1,11 @@
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe.config
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\bin\Debug\sinemabilet.exe
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\bin\Debug\sinemabilet.pdb
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.csproj.AssemblyReference.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.csproj.SuggestedBindingRedirects.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.Form1.resources
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.Properties.Resources.resources
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.csproj.GenerateResource.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.csproj.CoreCompileInputs.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.exe
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\sineme satış bilet uygulaması\sinemabilet\sinemabilet\obj\Debug\sinemabilet.pdb
